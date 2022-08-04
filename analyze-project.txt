@@ -1,0 +1,34 @@
+- Những thành phần thường gặp trên giao diện website
+    1. Header
+    2. Navigation
+    3. Breadcrumb
+    4. Sidebar
+    5. Slider
+    6. Banner
+    7. Content
+    8. Footer
+
+https://www.w3schools.com/w3css/tryw3css_templates_band.htm (web the band)
+
+Steps to build 1 website 
+    1. Phân tích
+        - Header
+        - Slider
+        - Content
+            + About
+            + Tour
+            + Contact
+            + Image
+        - Footer
+    2. Dựng base (xây móng)
+    3. Xây dựng từng phần theo phân tích
+    4. Hoàn thiện
+
+- The fast way to create content of html file
+The first way: ! -> ctrl + space 
+The second way: html:5
+
+- The fast way to create an tag have class or id 
+    Ex: .box // create an div tag has class="box"
+        #box // create an div tag has id="box"
+Note: The main parts of an website often sets id  
